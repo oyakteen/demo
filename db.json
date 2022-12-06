@@ -1,31 +1,36 @@
 {
-  "posts": [
+  "Users": [
     {
       "id": 1,
-      "title": "Post 1"
+      "firstName": "fname1",
+      "lastName": "lname1",
+      "age", 30
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "firstName": "fname22",
+      "lastName": "lname22",
+      "age", 40
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "firstName": "fname333",
+      "lastName": "lname333",
+      "age", 20
     }
   ],
-  "comments": [
+  "Pets": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "userId": 2,
+      "name": "pet1",
+      "age", 5
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "userId": 3,
+      "name": "pet2",
+      "age", 7
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

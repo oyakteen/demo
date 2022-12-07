@@ -32,5 +32,8 @@
       "name": "pet2",
       "age", 7
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
